@@ -45,7 +45,7 @@ class IssueList extends Component {
         </body>
       </>
      )
-    }
+    
   }
 
 export default IssueList;
